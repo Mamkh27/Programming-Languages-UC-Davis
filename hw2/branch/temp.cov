@@ -1,0 +1,16 @@
+mode: set
+hw2/branch/branch.go:11.41,14.41 1 1
+hw2/branch/branch.go:29.2,29.14 1 1
+hw2/branch/branch.go:14.41,15.22 1 1
+hw2/branch/branch.go:27.3,27.14 1 1
+hw2/branch/branch.go:16.21,17.14 1 1
+hw2/branch/branch.go:18.22,19.14 1 1
+hw2/branch/branch.go:20.24,21.14 1 1
+hw2/branch/branch.go:22.25,23.14 1 1
+hw2/branch/branch.go:24.29,25.14 1 1
+hw2/branch/branch.go:34.55,37.16 3 1
+hw2/branch/branch.go:41.2,42.31 2 1
+hw2/branch/branch.go:50.2,50.10 1 1
+hw2/branch/branch.go:37.16,38.13 1 0
+hw2/branch/branch.go:42.31,43.28 1 1
+hw2/branch/branch.go:44.22,46.13 2 1
